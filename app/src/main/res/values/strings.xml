@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CipherDecipher</string>
+    <string-array name="tech">
+        <item>Caeser Cipher</item>
+        <item>Vigenere Cipher</item>
+    </string-array>
+</resources>
